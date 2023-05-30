@@ -1,0 +1,26 @@
+body{
+    font-family:' Titillium Web', sans-serif;
+}
+header{
+    margin-top: 75px;
+    background: linear-gradient(to top, #8e9eab, #eef2f3); 
+}
+
+#testimonial{
+    background: #f1f1f1;
+    padding: 10px 0 5px 0;
+    text-align: center ;
+    margin-top: 40px;
+}
+
+footer{
+    background: linear-gradient(to top, #4ca1af, #c4e0e5);
+}
+
+
+.logo {
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+}
+
